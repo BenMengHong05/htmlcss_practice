@@ -14,19 +14,7 @@ int main(){
 
 }*/
 
-/*#include<iostream>
-using namespace std;
-void helloworld(){
-    cout<<"\t I LOVE YOU";
-}
-int main(){
-    for(int i ;i <=82;i++){
-        helloworld();
-    }
-    return 0;
-}*/
 
-/*error
 #include<iostream>
 #include<windows.h>
 using namespace std;
@@ -93,7 +81,7 @@ int main() {
     PIN();
     return 0;
 }
-*/
+
 
 #include <iostream>
 #include <windows.h>

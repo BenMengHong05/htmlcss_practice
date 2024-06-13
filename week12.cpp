@@ -1,11 +1,10 @@
-# include<iostream>
+#include<iostream>
 using namespace std;
 int main(){
-
-    int text= 0;
-    while(text<1000){
-        cout<<"hello world"<<endl;
-        text++;
+    int hong=0;
+    while(hong<1000){
+        cout<<"MENGHONG"<<endl;
+        hong++;
     }
     return 0;
 }
